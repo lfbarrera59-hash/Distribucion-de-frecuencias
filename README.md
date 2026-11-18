@@ -1,1 +1,1 @@
-# sectores-educacion
+﻿# Distribucion-de-frecuencias

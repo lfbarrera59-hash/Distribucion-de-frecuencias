@@ -1,6 +1,6 @@
 ---
-title: "HISTORIA, CONCEPTOS Y VARIABLES ESAP"
-subtitle: "TALLER 2"
+title: "Distribucion de frecuencias"
+subtitle: "TALLER 2 Tablas y graficas"
 author:
   - "Luis Felipe Barrera Gomez"
   - "Diana Lizeth Rubio Bermejo"
